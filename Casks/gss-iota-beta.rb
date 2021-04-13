@@ -1,4 +1,4 @@
-cask 'iota-beta' do
+cask 'gss-iota-beta' do
   version :latest
   sha256 :no_check
 
