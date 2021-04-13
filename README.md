@@ -1,8 +1,13 @@
-# IOTA
+# iota
 
-## Install
-
+## Installation
 ```sh
-brew tap a26007565/iota
-brew cask install iota
+brew tap arthurlu-gss/homebrew-iota
+brew install --cask gss-iota
+```
+
+## Uninstallation
+```sh
+brew uninstall --cask gss-iota
+brew untap arthurlu-gss/homebrew-iota
 ```
