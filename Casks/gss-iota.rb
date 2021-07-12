@@ -7,7 +7,5 @@ cask 'gss-iota' do
   name 'iota'
   homepage 'https://im.gss.com.tw/'
 
-  auto_updates true
-
   app 'iota.app'
 end
